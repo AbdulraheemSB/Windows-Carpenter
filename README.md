@@ -6,7 +6,7 @@ Windows Carpenter is a Python-based security tool designed to enhance the securi
 - Disable or enable unnecessary Windows services.<br>
 - Manage open and blocked network ports.<br>
 - Harden registry settings to prevent security risks.<br>
-- Enable Windows Defender for better protection.<br>
+- Enable/Update Windows Defender for better protection.<br>
 - Create a system restore point before making changes.<br>
 ## Getting Started
 These instructions will guide you on how to use Windows Carpenter.
